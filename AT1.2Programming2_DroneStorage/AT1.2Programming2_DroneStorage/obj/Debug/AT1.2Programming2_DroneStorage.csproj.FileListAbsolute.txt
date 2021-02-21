@@ -1,0 +1,20 @@
+C:\Users\Robert\Desktop\Session 2 Programming 2\AT1.2Programming2_DroneStorage\AT1.2Programming2_DroneStorage\bin\Debug\AT1.2Programming2_DroneStorage.exe.config
+C:\Users\Robert\Desktop\Session 2 Programming 2\AT1.2Programming2_DroneStorage\AT1.2Programming2_DroneStorage\bin\Debug\AT1.2Programming2_DroneStorage.exe
+C:\Users\Robert\Desktop\Session 2 Programming 2\AT1.2Programming2_DroneStorage\AT1.2Programming2_DroneStorage\bin\Debug\AT1.2Programming2_DroneStorage.pdb
+C:\Users\Robert\Desktop\Session 2 Programming 2\AT1.2Programming2_DroneStorage\AT1.2Programming2_DroneStorage\obj\Debug\AT1.2Programming2_DroneStorage.csprojAssemblyReference.cache
+C:\Users\Robert\Desktop\Session 2 Programming 2\AT1.2Programming2_DroneStorage\AT1.2Programming2_DroneStorage\obj\Debug\AT1._2Programming2_DroneStorage.MyDronesForm.resources
+C:\Users\Robert\Desktop\Session 2 Programming 2\AT1.2Programming2_DroneStorage\AT1.2Programming2_DroneStorage\obj\Debug\AT1._2Programming2_DroneStorage.Properties.Resources.resources
+C:\Users\Robert\Desktop\Session 2 Programming 2\AT1.2Programming2_DroneStorage\AT1.2Programming2_DroneStorage\obj\Debug\AT1.2Programming2_DroneStorage.csproj.GenerateResource.cache
+C:\Users\Robert\Desktop\Session 2 Programming 2\AT1.2Programming2_DroneStorage\AT1.2Programming2_DroneStorage\obj\Debug\AT1.2Programming2_DroneStorage.csproj.CoreCompileInputs.cache
+C:\Users\Robert\Desktop\Session 2 Programming 2\AT1.2Programming2_DroneStorage\AT1.2Programming2_DroneStorage\obj\Debug\AT1.2Programming2_DroneStorage.exe
+C:\Users\Robert\Desktop\Session 2 Programming 2\AT1.2Programming2_DroneStorage\AT1.2Programming2_DroneStorage\obj\Debug\AT1.2Programming2_DroneStorage.pdb
+C:\Users\Robert\Desktop\Cert 4 Tafe stuff\Programming 2\AT1.2Programming2_DroneStorage\AT1.2Programming2_DroneStorage\bin\Debug\AT1.2Programming2_DroneStorage.exe.config
+C:\Users\Robert\Desktop\Cert 4 Tafe stuff\Programming 2\AT1.2Programming2_DroneStorage\AT1.2Programming2_DroneStorage\bin\Debug\AT1.2Programming2_DroneStorage.exe
+C:\Users\Robert\Desktop\Cert 4 Tafe stuff\Programming 2\AT1.2Programming2_DroneStorage\AT1.2Programming2_DroneStorage\bin\Debug\AT1.2Programming2_DroneStorage.pdb
+C:\Users\Robert\Desktop\Cert 4 Tafe stuff\Programming 2\AT1.2Programming2_DroneStorage\AT1.2Programming2_DroneStorage\obj\Debug\AT1.2Programming2_DroneStorage.csprojAssemblyReference.cache
+C:\Users\Robert\Desktop\Cert 4 Tafe stuff\Programming 2\AT1.2Programming2_DroneStorage\AT1.2Programming2_DroneStorage\obj\Debug\AT1._2Programming2_DroneStorage.MyDronesForm.resources
+C:\Users\Robert\Desktop\Cert 4 Tafe stuff\Programming 2\AT1.2Programming2_DroneStorage\AT1.2Programming2_DroneStorage\obj\Debug\AT1._2Programming2_DroneStorage.Properties.Resources.resources
+C:\Users\Robert\Desktop\Cert 4 Tafe stuff\Programming 2\AT1.2Programming2_DroneStorage\AT1.2Programming2_DroneStorage\obj\Debug\AT1.2Programming2_DroneStorage.csproj.GenerateResource.cache
+C:\Users\Robert\Desktop\Cert 4 Tafe stuff\Programming 2\AT1.2Programming2_DroneStorage\AT1.2Programming2_DroneStorage\obj\Debug\AT1.2Programming2_DroneStorage.csproj.CoreCompileInputs.cache
+C:\Users\Robert\Desktop\Cert 4 Tafe stuff\Programming 2\AT1.2Programming2_DroneStorage\AT1.2Programming2_DroneStorage\obj\Debug\AT1.2Programming2_DroneStorage.exe
+C:\Users\Robert\Desktop\Cert 4 Tafe stuff\Programming 2\AT1.2Programming2_DroneStorage\AT1.2Programming2_DroneStorage\obj\Debug\AT1.2Programming2_DroneStorage.pdb
